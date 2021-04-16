@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MY.AspNetCore.Mvc.ModelBinding", "MY.AspNetCore.Mvc.ModelBinding\MY.AspNetCore.Mvc.ModelBinding.csproj", "{1C66F386-8034-4C71-9660-DE701C3AF4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C66F386-8034-4C71-9660-DE701C3AF4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C66F386-8034-4C71-9660-DE701C3AF4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C66F386-8034-4C71-9660-DE701C3AF4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C66F386-8034-4C71-9660-DE701C3AF4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF489082-D964-4829-9539-6A47AA278C98}
+	EndGlobalSection
+EndGlobal

@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/muzammilkm/MY.AspNetCore.Mvc.ModelBinding</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/muzammilkm/MY.AspNetCore.Mvc.ModelBinding</RepositoryUrl>
+    <PackageTags>AspNetCore.Mvc.ModelBinding; Comma Delimited; FromQuery; Query String;</PackageTags>
+    <Description>Extending FromQuery to support comma delimited query string</Description>
+    <Authors>Muzammil Khaja Mohammed</Authors>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
